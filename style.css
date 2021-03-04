@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+    marquee1 h1 {
+        font-size: 100px;
+    }
+
+    hr {
+        width: 100%;
+        color: black;
+    }
+
+    nav {
+        position: sticky;
+        top: 0;
+        z-index: 99999
+    }
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: orange;
+}
+    .environment_li {
+    margin-top: 13px;
+}
+.environment_li h4 {
+    border-bottom: 1px solid orange;
+    padding: 8px;
+}
+.environment_li img {
+    border-radius:25px;
+}
+environment_li p {
+    margin-top: 10px;
+}
